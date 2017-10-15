@@ -342,7 +342,7 @@ header nav li.active a {
 	font-size: 2em;
 }
 header nav li a:hover {
-	color: rgb(255, 0, 146);
+	color: #77BF43;
 	text-decoration: underline;
 }
 header nav .ownmenu li {
@@ -2677,4 +2677,31 @@ footer .social_icons li a {
 .color-verde
 {
 	color: #77C043!important;
+}
+
+
+/*=======================*/
+/*PRELOADER*/
+/*=======================*/
+
+/***********************************************
+PRELOAD CSS
+***********************************************/
+#preload {
+	position: fixed;
+	width: 100%;
+	height: 100%;
+	z-index: 9999999;
+	background-color: rgba(0, 0, 0, .97);
+}
+
+#estado {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	width: 200px;
+	height: 200px;
+	text-align: center;
+	margin: -100px 0 0 -100px;
+	background: url(../images/bars.svg) center no-repeat;
 }
