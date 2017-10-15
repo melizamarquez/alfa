@@ -317,7 +317,7 @@ header nav {
 	display: inline-block;
 	position: relative;
 	z-index: 999;
-	float: right;
+	/*float: right;*/
 	margin-top: 20px;
 }
 header nav li a {
@@ -339,6 +339,7 @@ header nav li.active a:hover {
 header nav li.active a {
 	color: #fff85f;
 	font-weight: 600;
+	font-size: 2em;
 }
 header nav li a:hover {
 	color: #fff85f;
@@ -437,6 +438,7 @@ header nav .ownmenuclick li,
 	display: inline-block;
 	width: 100%;
 	font-size: 11px;
+	font-size: 2em;
 	font-weight: 500;
 	position: relative;
 }
@@ -446,6 +448,7 @@ header nav .ownmenuclick .indicator {
 .header-bottom {
 	position: absolute;
 	bottom: 30px;
+	margin: 0 auto;
 }
 .header-bottom .search {
 	width: 100%;
@@ -1846,7 +1849,7 @@ header nav .ownmenuclick .indicator {
 	- FOOTER
 ========================================================*/
 footer {
-	background: #2e2e2e;
+	background: #F0F0EA;
 	padding-top: 120px;
 	text-align: center;
 	font-family: 'Montserrat', sans-serif;
@@ -1855,8 +1858,9 @@ footer img {
 	margin-bottom: 20px;
 }
 footer p {
-	color: #cecece;
+	color: #000;
 	font-size: 11px;
+	font-size: 1.3em;
 	margin: 0px;
 }
 footer .social_icons {
@@ -2665,4 +2669,11 @@ footer .social_icons li a {
 }
 .padding-l-60 {
 	padding-left: 60px;
+}
+
+
+
+.color-verde
+{
+	color: #77C043!important;
 }
