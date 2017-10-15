@@ -334,15 +334,16 @@ header nav li a {
 	position: relative;
 }
 header nav li.active a:hover {
-	color: #fff85f;
+	color: #E6007E;
 }
 header nav li.active a {
-	color: #fff85f;
+	color: #E6007E;
 	font-weight: 600;
 	font-size: 2em;
 }
 header nav li a:hover {
-	color: #fff85f;
+	color: rgb(255, 0, 146);
+	text-decoration: underline;
 }
 header nav .ownmenu li {
 	float: left;
