@@ -2,11 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="604a1eb5-ee07-4601-9dc2-9f5f0f1b1251" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/preloader.js" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/css/documenter_style.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/css/img/info.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/css/img/pre_bg.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/css/img/warning.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/images/Thumbs.db" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/images/email.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/images/map-long.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/images/stars.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/js/jquery.1.6.4.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/js/jquery.easing.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/js/jquery.scrollTo-1.4.2-min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Documentation/js/script.js" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/style.css" afterPath="$PROJECT_DIR$/css/style.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inicio.html" afterPath="$PROJECT_DIR$/inicio.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/publicaciones.html" afterPath="$PROJECT_DIR$/publicaciones.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,11 +32,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="inicio.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="inicio.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/inicio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="8" selection-end-column="66" />
+            <state relative-caret-position="302">
+              <caret line="297" column="98" lean-forward="false" selection-start-line="297" selection-start-column="98" selection-end-line="297" selection-end-column="98" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -36,10 +47,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="publicaciones.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="publicaciones.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/publicaciones.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="-272">
               <caret line="8" column="66" lean-forward="false" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
               <folding />
             </state>
@@ -77,8 +88,8 @@
       <find>.header-left-fixed ul li a</find>
       <find>footer</find>
       <find>header nav li.active a</find>
-      <find>categori</find>
       <find>face</find>
+      <find>categori</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -97,8 +108,8 @@
         <option value="$PROJECT_DIR$/cabezote.html" />
         <option value="$PROJECT_DIR$/css/style.css" />
         <option value="$PROJECT_DIR$/js/preloader.js" />
-        <option value="$PROJECT_DIR$/inicio.html" />
         <option value="$PROJECT_DIR$/publicaciones.html" />
+        <option value="$PROJECT_DIR$/inicio.html" />
       </list>
     </option>
   </component>
@@ -254,12 +265,12 @@
       <workItem from="1506882580525" duration="140000" />
       <workItem from="1506883126735" duration="2718000" />
       <workItem from="1508025309559" duration="564000" />
-      <workItem from="1508035329584" duration="7976000" />
+      <workItem from="1508035329584" duration="8417000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11398000" />
+    <option name="totallyTimeSpent" value="11839000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -318,6 +329,14 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/publicaciones.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-272">
+          <caret line="8" column="66" lean-forward="false" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/js/preloader.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="119">
@@ -328,22 +347,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/inicio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="6" column="1" lean-forward="true" selection-start-line="6" selection-start-column="1" selection-end-line="8" selection-end-column="66" />
+        <state relative-caret-position="302">
+          <caret line="297" column="98" lean-forward="false" selection-start-line="297" selection-start-column="98" selection-end-line="297" selection-end-column="98" />
           <folding>
             <element signature="n#style#0;n#div#0;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#li#0;n#ul#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#li#1;n#ul#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#1;n#li#1;n#ul#0;n#div#0;n#div#0;n#section#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/publicaciones.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="66" lean-forward="false" selection-start-line="8" selection-start-column="66" selection-end-line="8" selection-end-column="66" />
-          <folding />
         </state>
       </provider>
     </entry>
