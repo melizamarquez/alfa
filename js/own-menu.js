@@ -3,7 +3,6 @@ $.extend(settings,options);var menu=$(".ownmenu");var lastScreenWidth=window.inn
 $(document).ready(function($){"use strict"
 $().ownmenu();});
 
-
 /*
 Drop Down Menu On Click
 */

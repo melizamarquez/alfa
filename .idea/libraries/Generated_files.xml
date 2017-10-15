@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/js/counter.min.js" />
+        <item url="file://$PROJECT_DIR$/js/own-menu.min.js" />
+        <item url="file://$PROJECT_DIR$/js/main.min.js" />
+        <item url="file://$PROJECT_DIR$/js/preloader.min.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/js/counter.min.js" />
+      <root url="file://$PROJECT_DIR$/js/own-menu.min.js" />
+      <root url="file://$PROJECT_DIR$/js/main.min.js" />
+      <root url="file://$PROJECT_DIR$/js/preloader.min.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
