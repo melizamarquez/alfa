@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="604a1eb5-ee07-4601-9dc2-9f5f0f1b1251" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitattributes" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/inicio.html" afterPath="$PROJECT_DIR$/inicio.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,11 +20,9 @@
       <file leaf-file-name="inicio.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/inicio.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="201">
-              <caret line="573" column="18" lean-forward="true" selection-start-line="573" selection-start-column="18" selection-end-line="573" selection-end-column="18" />
-              <folding>
-                <element signature="n#style#0;n#a#1;n#center#0;n#div#0;n#footer#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-              </folding>
+            <state relative-caret-position="252">
+              <caret line="576" column="301" lean-forward="false" selection-start-line="576" selection-start-column="301" selection-end-line="576" selection-end-column="301" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -179,12 +176,12 @@
       <workItem from="1506882580525" duration="140000" />
       <workItem from="1506883126735" duration="2718000" />
       <workItem from="1508025309559" duration="564000" />
-      <workItem from="1508035329584" duration="1347000" />
+      <workItem from="1508035329584" duration="1533000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4769000" />
+    <option name="totallyTimeSpent" value="4955000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="201" y="0" width="1165" height="738" extended-state="0" />
@@ -237,11 +234,9 @@
     <entry file="file://$PROJECT_DIR$/index.html" />
     <entry file="file://$PROJECT_DIR$/inicio.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="201">
-          <caret line="573" column="18" lean-forward="true" selection-start-line="573" selection-start-column="18" selection-end-line="573" selection-end-column="18" />
-          <folding>
-            <element signature="n#style#0;n#a#1;n#center#0;n#div#0;n#footer#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-          </folding>
+        <state relative-caret-position="252">
+          <caret line="576" column="301" lean-forward="false" selection-start-line="576" selection-start-column="301" selection-end-line="576" selection-end-column="301" />
+          <folding />
         </state>
       </provider>
     </entry>
