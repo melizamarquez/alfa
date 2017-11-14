@@ -3,15 +3,31 @@
     <properties>
       <sourceFilesUrls>
         <item url="file://$PROJECT_DIR$/js/counter.min.js" />
+        <item url="file://$PROJECT_DIR$/js/jquery-1.12.4.min.min.js" />
         <item url="file://$PROJECT_DIR$/js/own-menu.min.js" />
+        <item url="file://$PROJECT_DIR$/js/jquery.isotope.min.min.js" />
         <item url="file://$PROJECT_DIR$/js/main.min.js" />
+        <item url="file://$PROJECT_DIR$/js/bootstrap.min.min.js" />
+        <item url="file://$PROJECT_DIR$/rs-plugin/js/jquery.themepunch.revolution.min.js" />
+        <item url="file://$PROJECT_DIR$/js/owl.carousel.min.min.js" />
+        <item url="file://$PROJECT_DIR$/rs-plugin/js/jquery.themepunch.revolution.min.min.js" />
         <item url="file://$PROJECT_DIR$/js/preloader.min.js" />
+        <item url="file://$PROJECT_DIR$/rs-plugin/js/jquery.themepunch.tools.min.min.js" />
+        <item url="file://$PROJECT_DIR$/rs-plugin/js/jquery.themepunch.enablelog.min.js" />
       </sourceFilesUrls>
     </properties>
     <CLASSES>
+      <root url="file://$PROJECT_DIR$/rs-plugin/js/jquery.themepunch.revolution.min.js" />
+      <root url="file://$PROJECT_DIR$/rs-plugin/js/jquery.themepunch.revolution.min.min.js" />
+      <root url="file://$PROJECT_DIR$/rs-plugin/js/jquery.themepunch.tools.min.min.js" />
+      <root url="file://$PROJECT_DIR$/rs-plugin/js/jquery.themepunch.enablelog.min.js" />
       <root url="file://$PROJECT_DIR$/js/counter.min.js" />
+      <root url="file://$PROJECT_DIR$/js/jquery-1.12.4.min.min.js" />
       <root url="file://$PROJECT_DIR$/js/own-menu.min.js" />
+      <root url="file://$PROJECT_DIR$/js/jquery.isotope.min.min.js" />
       <root url="file://$PROJECT_DIR$/js/main.min.js" />
+      <root url="file://$PROJECT_DIR$/js/bootstrap.min.min.js" />
+      <root url="file://$PROJECT_DIR$/js/owl.carousel.min.min.js" />
       <root url="file://$PROJECT_DIR$/js/preloader.min.js" />
     </CLASSES>
     <SOURCES />
