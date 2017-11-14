@@ -1038,7 +1038,7 @@ header nav .ownmenuclick .indicator {
 }
 
 .history-text .huge-text {
-    font-size: 48px;
+    font-size: 25px;
     font-weight: bold;
 }
 
@@ -1055,10 +1055,9 @@ header nav .ownmenuclick .indicator {
 }
 
 .history-text p {
-    color: #bfbfbf;
+    color: #4d4d4d;
     line-height: 30px;
 }
-
 .history-text a {
     padding-bottom: 10px;
     margin-top: 40px;
